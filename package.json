@@ -1,0 +1,19 @@
+{
+  "name": "important",
+  "version": "1.0.0",
+  "description": "Intrview",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koilada-Rao-au16/JavaScript-Tricky-Interview-Qn.git"
+  },
+  "author": "Bhaskar Koilada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koilada-Rao-au16/JavaScript-Tricky-Interview-Qn/issues"
+  },
+  "homepage": "https://github.com/Koilada-Rao-au16/JavaScript-Tricky-Interview-Qn#readme"
+}
